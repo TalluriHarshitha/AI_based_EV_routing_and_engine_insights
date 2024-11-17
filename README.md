@@ -44,4 +44,8 @@ Model Evaluation:
 ![image](https://github.com/user-attachments/assets/46812437-a7c1-435e-8b30-b6906ef0e65a)
 
 
+To run the code:
+streamlit run <script_name>.py or streamlit run vmain_streamlit.py
+
+Ensure that all the required libraries are installed and that the pickle file is saved correctly, allowing it to be accessed successfully when running the `vmain_streamlit.py` script.
 
