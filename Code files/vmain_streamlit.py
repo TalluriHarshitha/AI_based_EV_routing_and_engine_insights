@@ -155,7 +155,7 @@ def optimal_route(graph, source, destination, battery, charge_rate, discharge_ra
         return None
 
 # Load the trained model for Vehicle Engine Prediction
-with open("C:\\Users\\HP\\engine_model.pkl", 'rb') as file:
+with open("engine_model.pkl", 'rb') as file:
     engine_model = pickle.load(file)
 
 # Streamlit App
