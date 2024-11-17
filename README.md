@@ -1,0 +1,2 @@
+# AI_based_EV_routing_and_engine_insights
+The project showcases an innovative solution that combines EV route optimization and vehicle engine condition prediction. It highlights the use of advanced algorithms for efficient route planning for electric vehicles, considering battery levels and charging stations. Additionally, the system predicts engine health based on various vehicle parameters, helping identify maintenance needs. The application integrates these features for enhanced vehicle performance and travel efficiency.
